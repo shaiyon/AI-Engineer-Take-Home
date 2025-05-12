@@ -1,0 +1,8 @@
+{
+  "python.languageServer": "Pylance",
+  "editor.formatOnSave": true,
+  "editor.folding": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  },
+}
