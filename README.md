@@ -21,8 +21,13 @@ Due to time constraints, I was not able to complete parts 4 and 5 of the exercis
 ## Tech Stack
 
 FastAPI - Main Application
+
 PostgreSQL - Relational Database
+
 Qdrant - Vector Database
+
 Redis - Caching
 
-~shaiyon
+---
+
+~ shaiyon
